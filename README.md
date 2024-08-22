@@ -1,8 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed K Ahmed</h1>
 <h3 align="center">Senior Front End Developer With React</h3>
-<img align=“center” alt=“coding” width=“400” src=“https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif” >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkahmed" > </p>
+<img align=“center” alt=“coding” width=“400” src=“https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif”>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkahmed"> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
