@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mohamed K Ahmed</h1>
 <h3 align="center">Senior Front End Developer</h3>
-<img align="center" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" alt="coder" width="50%" alt="center" height="400">
+<img align="center" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif" alt="coder" width="300" alt="center" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkahmed&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkahmed"> </p>
 
